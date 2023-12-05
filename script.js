@@ -41,6 +41,6 @@
     height: 7px; /* You can adjust the height of the loader */
     background: linear-gradient(to right, #c33764, #1d2671);
     border-radius: 15px;
-    transition: 90ms;
+    
 }
 }
